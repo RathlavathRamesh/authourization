@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.heading {
+  margin-left: 5vh;
+  color: #1e293b;
+  font-weight: bold;
+}
+.content {
+  height: 40vh;
+  width: 60vw;
+}
+.imgpara {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+.imgStyle {
+  height: 60vh;
+}
+.but {
+  text-align: center;
+}
+.shop-now-button {
+  background-color: #0967d2;
+  height: 5vh;
+  width: 9vw;
+  color: #ffffff;
+  text-align: center;
+  border-width: 0px;
+  border-radius: 8px;
+}
+.home-description {
+  color: #475569;
+  text-align: center;
+  font-size: 25px;
+}
